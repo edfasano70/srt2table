@@ -1,6 +1,6 @@
 {
     "name": "ed/srt2table-web",
-    "description": "A web version of Srt2Table to convert SRT files to CSV or DOCX.",
+    "description": "Versión web de Srt2Table para convertir archivos SRT a CSV o DOCX.",
     "require": {
         "phpoffice/phpword": "^1.1.0"
     }

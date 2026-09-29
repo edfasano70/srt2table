@@ -1,19 +1,11 @@
 # Dependencias Composer (regenerables con composer install)
 /vendor/
 
-# Python
-__pycache__/
-*.py[cod]
-/build/
-/dist/
-
 # Artefactos y temporales
 *.bak
 *.bak-*
-.~lock.*#
-srt_converter.ini
 
-# IDE
+# IDE / editores
 .vscode/
 .idea/
 
