@@ -1,0 +1,7 @@
+{
+    "name": "ed/srt2table-web",
+    "description": "A web version of Srt2Table to convert SRT files to CSV or DOCX.",
+    "require": {
+        "phpoffice/phpword": "^1.1.0"
+    }
+}
